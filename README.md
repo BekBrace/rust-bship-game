@@ -46,6 +46,13 @@ This is a simple implementation of the classic Battleship game in Rust, showcasi
 
 ## Methods
 
+```sh
+git clone 
+cd battleship-rust
+cargo build
+cargo run
+```
+
 ### `Board`
 
 - `new() -> Self`: Initializes a new game board with all cells empty.
@@ -78,9 +85,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-```sh
-git clone https://github.com/yourusername/battleship-rust.git
-cd battleship-rust
-cargo build
-cargo run
-```
+## Thank you, guys and keep coding - stay safe and be well
