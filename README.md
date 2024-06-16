@@ -1,6 +1,7 @@
 # Battleship Game in Rust
 
 This is a simple implementation of the classic Battleship game in Rust, showcasing the use of Rust's standard library for I/O handling and random number generation. The game features a player and an opponent, each with their own game board, and allows for basic gameplay including placing ships, firing at the opponent's board, and checking for game over conditions.
+![image](https://github.com/BekBrace/rust-bship-game/assets/60483846/b39031c7-69c1-4f47-ae28-a87d1f0bdc27)
 
 ## Table of Contents
 
